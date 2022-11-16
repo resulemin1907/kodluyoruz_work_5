@@ -1,0 +1,38 @@
+body.bg{
+    background-image: url('millet-kutuphanesi6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+body.bg-k {
+    background-image: url('2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+.font {
+    font-family: 'Dancing Script', cursive;
+}
+
+ol {
+    list-style-type: none;
+    padding-left: 0;
+    }
+
+ol li img{
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+ol h5 {
+    text-align: center;
+    font-weight: 600;
+}
+
+.nav-item {
+    font-weight: 700;
+}
+
